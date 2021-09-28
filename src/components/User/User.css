@@ -1,0 +1,14 @@
+.single-user{
+    border: 1px solid #c5c5c5;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px #c5c5c5;
+    padding-bottom: 20px;
+}
+.single-user h2{
+    color: red;
+}
+.single-user  h3{
+    margin: 5px 0;
+    color: green;
+}
