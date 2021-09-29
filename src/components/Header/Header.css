@@ -1,0 +1,15 @@
+.nav-bar{
+    text-align: center;
+    margin: 25px 0;
+}
+.nav-bar .nav-item{
+    padding:5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+}

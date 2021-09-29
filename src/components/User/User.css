@@ -12,3 +12,11 @@
     margin: 5px 0;
     color: green;
 }
+.view-btn{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
